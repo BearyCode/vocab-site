@@ -9,12 +9,6 @@ Benennung der verantwortlichen Stelle
 
 Die verantwortliche Stelle für die Datenverarbeitung auf der Website “bearycode.github.io/Vocab“ und der App "Vocab" für iOS und macOS (im folgenden “App”) ist:
 
-Mathias Rettinger
-
-Konrad-Adenauer-Straße 47
-
-67663 Kaiserslautern
-
 
 # Informationen über die Erhebung personenbezogener Daten
 
@@ -42,4 +36,4 @@ Recht auf Auskunft, Berichtigung, Sperrung, Löschung
 
 Sie haben jederzeit im Rahmen der geltenden gesetzlichen Bestimmungen das Recht auf unentgeltliche Auskunft über Ihre gespeicherten personenbezogenen Daten, Herkunft der Daten, deren Empfänger und den Zweck der Datenverarbeitung und ggf. ein Recht auf Berichtigung, Sperrung oder Löschung dieser Daten. Diesbezüglich und auch zu weiteren Fragen zum Thema personenbezogene Daten können Sie sich jederzeit über die im Impressum aufgeführten Kontaktmöglichkeiten an uns wenden.
 
-Bei Fragen zu Ihren Daten wenden Sie sich bitte an: rettingerm@protonmail.com
+Bei Fragen zu Ihren Daten wenden Sie sich bitte an: bearycode@pm.me
