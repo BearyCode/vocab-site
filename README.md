@@ -12,7 +12,7 @@ Die verantwortliche Stelle für die Datenverarbeitung auf der Website “bearyco
 
 # Informationen über die Erhebung personenbezogener Daten
 
-Bei jeder Kontaktaufnahme per E-Mail werden die von Ihnen übertragenen Daten bei uns gespeichert, um ihre Fragen zu beantworten und um auf Ihre Verbesserungsvorschläge eingegangen werden können. Die in diesem Zusammenhang anfallenden Daten löschen wir, nachdem die Speicherung nicht mehr erforderlich ist oder schränken die Verarbeitung ein, falls gesetzliche Aufbewahrungsfristen bestehen. Sollten Sie eine Löschung Ihrer E-Mails wünschen, dann wenden Sie sich bitte an: rettingerm@protonmail.com
+Bei jeder Kontaktaufnahme per E-Mail werden die von Ihnen übertragenen Daten bei uns gespeichert, um ihre Fragen zu beantworten und um auf Ihre Verbesserungsvorschläge eingegangen werden können. Die in diesem Zusammenhang anfallenden Daten löschen wir, nachdem die Speicherung nicht mehr erforderlich ist oder schränken die Verarbeitung ein, falls gesetzliche Aufbewahrungsfristen bestehen. Sollten Sie eine Löschung Ihrer E-Mails wünschen, dann wenden Sie sich bitte an: bearycode@pm.me
 Datennutzung der App
 
 Alle von Ihnen erstellten Kategorien, Vokabeln und Übungsergebnisse werden lokal auf Ihrem Gerät gespeichert.
